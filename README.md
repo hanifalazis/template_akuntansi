@@ -34,3 +34,24 @@ Dari pencatatan transaksi harian, template ini akan secara otomatis menghasilkan
 5.  **Mengatasi Error `#REF!`**
     -   **Penyebab:** Error ini biasanya terjadi karena Anda menambah akun baru di `COA` yang menyebabkan formula Array "tertimpa".
     -   **Solusi:** Cukup **sisipkan baris baru (Insert Row)** tepat di bawah sel yang menunjukkan error `#REF!` pada sheet Laporan untuk memberikan ruang bagi formula.
+  
+
+## Preview
+
+1. **Chart Of Account**
+<img src="img/COA.png" alt="Chart of Account" width="500">
+
+2. **Jurnal Penerimaan dan Pengeluaran Kas**
+<img src="img/J_PP.png" alt="Jurnal Penerimaan dan Pengeluaran Kas" width="500">
+
+3. **Master Jurnal**
+<img src="img/Jurnal.png" alt="Master Jurnal" width="500">
+
+4. **Buku Besar**
+<img src="img/Buku_Besar.png" alt="Buku Besar" width="500">
+
+5. **Laba Rugi**
+<img src="img/Laba_Rugi.jpg" alt="Laba Rugi" width="500">
+
+6. **Neraca**
+<img src="img/neraca.jpg" alt="Neraca" width="500">
