@@ -36,9 +36,3 @@ Dari pencatatan transaksi harian, template ini akan secara otomatis menghasilkan
 5.  **Mengatasi Error `#REF!`** [cite: 47]
     -   **Penyebab:** Error ini biasanya terjadi karena Anda menambah akun baru di `COA` yang menyebabkan formula Array "tertimpa"[cite: 48].
     -   **Solusi:** Cukup **sisipkan baris baru (Insert Row)** tepat di sel yang menunjukkan error `#REF!` pada sheet Laporan untuk memberikan ruang bagi formula[cite: 49, 50].
-
-## Lisensi
-
-Karya ini dilisensikan di bawah **Lisensi MIT**.
-
-© 2025 Muhammad Hanif Al Azis
