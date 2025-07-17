@@ -12,7 +12,7 @@ Dari pencatatan transaksi harian, template ini akan secara otomatis menghasilkan
     -   **Chart of Accounts (COA):** Fleksibel untuk menambah, mengedit, atau menghapus daftar akun sesuai kebutuhan bisnis.
     -   **Daftar Aset:** Modul untuk mencatat dan mengelola aset tetap perusahaan.
 -   **Format Input Efisien:** Menggunakan format satu baris per transaksi (Debit & Kredit dalam satu baris) untuk menjaga performa spreadsheet tetap ringan dan cepat.
--   **Utilitas Laporan:** Fitur filter untuk menyembunyikan akun bernilai nol, sehingga laporan lebih ringkas dan fokus pada data yang relevan.
+-   **Utilitas Laporan:** Fitur filter tanggal untuk mengetahui jumlah transaksi pada suatu periode.
 
 ## Cara Penggunaan
 
