@@ -1,5 +1,3 @@
-# template akuntansi
-
 # Template Akuntansi Otomatis dengan Google Sheets
 
 Selamat datang di repositori Template Akuntansi Otomatis! Template ini adalah sistem akuntansi berbasis Google Sheets yang dirancang untuk membantu Usaha Kecil dan Menengah (UKM), freelancer, dan siapa pun yang ingin mengelola keuangan bisnis dengan lebih mudah dan efisien.
@@ -31,7 +29,7 @@ Dari pencatatan transaksi harian, template ini akan secara otomatis menghasilkan
     -   Pastikan Anda mengisi kolom Debit dan Kredit dalam satu baris yang sama untuk setiap transaksi.
 
 4.  **Lihat Laporan (Read-Only)**
-    -   Sheet `LR` (Laba Rugi), `NRC` (Neraca), dan `Buku Besar` adalah laporan otomatis. Jangan mengubah data apa pun di sheet ini. 
+    -   Sheet `LR` (Laba Rugi), `NRC` (Neraca), dan `Buku Besar` adalah laporan otomatis. Jangan mengubah data apa pun di sheet ini kecuali cell yang diberi catatan. 
 
 5.  **Mengatasi Error `#REF!`**
     -   **Penyebab:** Error ini biasanya terjadi karena Anda menambah akun baru di `COA` yang menyebabkan formula Array "tertimpa".
