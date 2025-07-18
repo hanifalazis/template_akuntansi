@@ -39,19 +39,19 @@ Dari pencatatan transaksi harian, template ini akan secara otomatis menghasilkan
 ## Preview
 
 1. **Chart Of Account**
-<img src="img/COA.png" alt="Chart of Account" width="500">
+<img src="img/COA.png" alt="Chart of Account">
 
 2. **Jurnal Penerimaan dan Pengeluaran Kas**
-<img src="img/J_PP.png" alt="Jurnal Penerimaan dan Pengeluaran Kas" width="500">
+<img src="img/J_PP.png" alt="Jurnal Penerimaan dan Pengeluaran Kas">
 
 3. **Master Jurnal**
-<img src="img/Jurnal.png" alt="Master Jurnal" width="500">
+<img src="img/Jurnal.png" alt="Master Jurnal">
 
 4. **Buku Besar**
-<img src="img/Buku_Besar.png" alt="Buku Besar" width="500">
+<img src="img/Buku_Besar.png" alt="Buku Besar">
 
 5. **Laba Rugi**
-<img src="img/Laba_Rugi.jpg" alt="Laba Rugi" width="500">
+<img src="img/Laba_Rugi.jpg" alt="Laba Rugi">
 
 6. **Neraca**
-<img src="img/neraca.jpg" alt="Neraca" width="500">
+<img src="img/neraca.jpg" alt="Neraca">
